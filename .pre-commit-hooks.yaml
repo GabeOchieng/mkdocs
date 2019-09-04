@@ -1,0 +1,7 @@
+-   id: mkdocs
+    name: mkdocs
+    description: 'Project documentation with Markdown'
+    entry: mkdocs build
+    language: python
+    language_version: python3
+    types: [markdown]
